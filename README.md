@@ -7,4 +7,4 @@
 
 ## Тест-кейсы для проверок из чек-листа для регистрации, логина и каталога
 
-[Ссылка на документ](https://app.qase.io/project/G10?author=333&previewMode=side&suite=67&tab=)
+[Ссылка на тестовый набор в QASE](https://app.qase.io/project/G10?author=333&previewMode=side&suite=67&tab=)
