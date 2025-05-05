@@ -13,3 +13,6 @@
 
 
 ## Отчеты о дефекте для следующих Features: Registration and Authorization, Product Catalog
+[Oтчеты о дефекте в формате XLSX](https://app.qase.io/project/G10?author=333&previewMode=side&suite=67&tab=)
+
+[Oтчеты о дефекте  формате PDF](https://github.com/Ballist166/Docs/blob/main/G10-2025-05-02.pdf)
