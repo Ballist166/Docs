@@ -12,4 +12,4 @@
 [Ссылка на тестовый набор в формате PDF](https://github.com/Ballist166/Docs/blob/main/G10-2025-05-02.pdf)
 
 
-## Отчеты о дефекте для рследующих Features: Registration and Authorization, Product Catalog
+## Отчеты о дефекте для следующих Features: Registration and Authorization, Product Catalog
